@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class albumguesser {
+public class AlbumGuesser {
 public static void main(String[] args) {
 System.out.println("Welcome to Album Guesser!");
 System.out.println("Choose a Genre: 1. Pop 2. Rock 3. Hip-Hop 4. Country");
